@@ -1,8 +1,8 @@
-# 🚀 Sideproject — Ingesta multifuente
+# 🚀 DevSandbox — Ingesta multifuente
 
-**Repositorio:** `sideproject-ingesta-multifuente` · **Tipo:** ETL (extracción) · **Tiempo:** 5–6 h · **Después de:** lecciones 1 a 7 de esta sección
+**Repositorio:** `DevSandbox-ingesta-multifuente` · **Tipo:** ETL (extracción) · **Tiempo:** 5–6 h · **Después de:** lecciones 1 a 7 de esta sección
 
-> Reglas, README y lista de cierre: [`SIDEPROJECTS.md`](docs/REGLAS.md). **No hay solución: el diseño es tuyo.**
+> Reglas, README y lista de cierre: [`NIGHTBUILDS.md`](docs/REGLAS.md). **No hay solución: el diseño es tuyo.**
 
 ## El caso
 

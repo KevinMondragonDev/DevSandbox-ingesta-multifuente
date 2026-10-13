@@ -1,4 +1,4 @@
-# sideproject-ingesta-multifuente
+# DevSandbox-ingesta-multifuente
 
 > Ingesta repetible de tres fuentes (CSV, PostgreSQL y una API REST) a una zona raw particionada por fecha.
 
@@ -22,7 +22,7 @@ Los archivos de `datos/` son **sintéticos**, generados para practicar: no corre
 
 El enunciado completo, con sus hitos y cómo comprobar cada uno, está en [`RETO.md`](RETO.md). No trae solución: el diseño es tuyo.
 
-- [`docs/REGLAS.md`](docs/REGLAS.md): cómo se trabaja un sideproject y qué debe tener este README al terminar.
+- [`docs/REGLAS.md`](docs/REGLAS.md): cómo se trabaja un DevSandbox y qué debe tener este README al terminar.
 - [`docs/RUBRICA.md`](docs/RUBRICA.md): con qué criterios se evalúa.
 
 ## Cómo se ejecuta
