@@ -1,6 +1,6 @@
 # 🚀 Sideproject — Ingesta multifuente
 
-**Repositorio:** `sideproject-ingesta-multifuente` · **Tipo:** ETL (extracción) · **Tiempo:** 5–6 h · **Después de:** lecciones 1 a 4 de esta carpeta
+**Repositorio:** `sideproject-ingesta-multifuente` · **Tipo:** ETL (extracción) · **Tiempo:** 5–6 h · **Después de:** lecciones 1 a 7 de esta sección
 
 > Reglas, README y lista de cierre: [`SIDEPROJECTS.md`](docs/REGLAS.md). **No hay solución: el diseño es tuyo.**
 
@@ -18,7 +18,7 @@ Finanzas quiere ver las compras del banco en dólares. Los datos viven en tres s
 
 | Lección | Dónde aparece |
 |---|---|
-| Excel y otros formatos | Guardar en Parquet |
+| Excel y otros formatos · Parquet | Zona raw en Parquet, particionada por fecha, con el códec y el orden justificados |
 | Bases de datos | Extraer de PostgreSQL con parámetros y credenciales por entorno |
 | Web y JSON | Guardar la respuesta cruda de la API |
 | APIs REST | Timeout, códigos de estado y reintentos |
@@ -48,5 +48,5 @@ Finanzas quiere ver las compras del banco en dólares. Los datos viven en tres s
 
 ## Súbelo de nivel
 
-- Zona raw en S3 sobre **Floci** en lugar de en disco (`07_nube_con_floci/02`), eligiendo el destino con una variable de entorno.
+- Zona raw en S3 sobre **Floci** en lugar de en disco (`07_nube_con_floci/02_almacenamiento/02`), eligiendo el destino con una variable de entorno.
 - Una cuarta fuente: un Excel con una hoja por mes.

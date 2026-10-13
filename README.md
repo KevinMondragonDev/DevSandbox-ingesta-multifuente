@@ -2,7 +2,7 @@
 
 > Ingesta repetible de tres fuentes (CSV, PostgreSQL y una API REST) a una zona raw particionada por fecha.
 
-**Estado:** 🚧 sin empezar · **Tipo:** ETL (extracción) · **Módulo del programa:** 06/01 · Ingesta de datos
+**Estado:** 🚧 sin empezar · **Tipo:** ETL (extracción) · **Módulo del programa:** 05/01 · Ingesta de datos
 
 ## La problemática
 
